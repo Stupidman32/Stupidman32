@@ -1,4 +1,4 @@
-# [![image](https://github.com/Stupidman32/Stupidman32/assets/145575047/75dfd580-3259-41a2-884f-89f7926f5898)](https://www.google.com/url?sa=i&url=https%3A%2F%2Faminoapps.com%2Fc%2Fvirtualhighschool%2Fpage%2Fitem%2Fdokja%2FQRP1_nqHYIoNlEbgdq8JXLgEoJoXbaVQe&psig=AOvVaw2hmUvwnZzqVVTPt43WA93M&ust=1697291530869000&source=images&cd=vfe&opi=89978449&ved=0CA8QjRxqFwoTCPjxku2V84EDFQAAAAAdAAAAABAG)
+# (https://pm1.aminoapps.com/7822/6091a8f39067b03e5a8c8addc55f2832ce740c5dr1-736-420v2_hq.jpg)
 
 <h1 align="center">Hi 👋, I'm Maulana Rafi Alfatah</h1>
 <h3 align="center">A passionate web developer from Dringu, Probolinggo, Indonesia</h3>
