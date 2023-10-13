@@ -1,5 +1,4 @@
-# [[(https://pm1.aminoapps.com/7822/6091a8f39067b03e5a8c8addc55f2832ce740c5dr1-736-420v2_hq.jpg)](https://pm1.aminoapps.com/7822/6091a8f39067b03e5a8c8addc55f2832ce740c5dr1-736-420v2_hq.jpg)](https://pic-bstarstatic.akamaized.net/ugc/d59713e207d78bd25429b3a0560e5f8f.jpg)
-
+# https://pic-bstarstatic.akamaized.net/ugc/d59713e207d78bd25429b3a0560e5f8f.jpg
 <h1 align="center">Hi 👋, I'm Maulana Rafi Alfatah</h1>
 <h3 align="center">A passionate web developer from Dringu, Probolinggo, Indonesia</h3>
 <img align="right" width="400" src="![image](https://github.com/Stupidman32/Stupidman32/assets/145575047/d4a468d4-9e9a-43a3-b2e5-3351bbad7b36)
