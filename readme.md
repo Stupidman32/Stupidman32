@@ -1,7 +1,8 @@
 # ![Header Image](https://i.pinimg.com/originals/7d/94/0e/7d940e7e437766713eacd3e4c927a02b.jpg)
 <h1 align="center">Hi 👋, I'm Maulana Rafi Alfatah</h1>
 <h3 align="center">A passionate web developer from Dringu, Probolinggo, Indonesia</h3>
-<img align="right" width="400" src="https://bayanbox.ir/view/1353559592827697052/programmer.gif">
+<img align="right" width="400" src="![image](https://github.com/Stupidman32/Stupidman32/assets/145575047/d4a468d4-9e9a-43a3-b2e5-3351bbad7b36)
+">
 
 - 🔭 I’m currently Student on **SMK Nurul Jadid - PP Nurul Jadid**
 
