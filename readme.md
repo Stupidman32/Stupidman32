@@ -1,4 +1,4 @@
-# ![image header](https://pic-bstarstatic.akamaized.net/ugc/d59713e207d78bd25429b3a0560e5f8f.jpg)
+# ![image header](https://storage.googleapis.com/janitor-prod/bot-avatars/3ffa3f2e-236f-497f-9838-8c73df526262.jpg)
 <h1 align="center">Hi 👋, I'm Maulana Rafi Alfatah</h1>
 <h3 align="center">A passionate web developer from Dringu, Probolinggo, Indonesia</h3>
 <img align="right" width="400" src="![image](https://github.com/Stupidman32/Stupidman32/assets/145575047/d4a468d4-9e9a-43a3-b2e5-3351bbad7b36)
